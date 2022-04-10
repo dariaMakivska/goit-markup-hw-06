@@ -899,7 +899,7 @@ ul {
 .contact-form-checkbox:checked+.contact-form-checkbox-label::before {
   background-color: var(--acent-color);
   border: var(--acent-color);
-  background-image: url('/images/svg/check_icon .svg');
+  background-image: url(/images/svg/check_icon.svg);
 }
 
 .contact-form-link{
